@@ -1,0 +1,33 @@
+.jumbotron {
+	background-image: url("kenzo.jpg");
+	background-image: 8px;
+    min-height: 60%;
+    background-position: right;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.container-fluid {
+    width: 100%;
+    padding-right: 10px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+	 
+.display-4 {
+	color: #ffc107;
+    font-family:'Pinyon Script' cursive;
+    font-size: 4.4rem;
+    font-style: oblique; 
+    font-weight: 10px;
+
+    
+}
+
+ .alert-warning {
+    color: #efc038;
+    background-color: #3c0b0b;
+    border-color: #d41313;
+}
+
